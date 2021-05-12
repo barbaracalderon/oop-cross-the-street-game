@@ -26,6 +26,7 @@ while game_is_on:
             game_is_on = False
     if player.is_at_finish_line():
         player.go_to_start()
+        car_manager.level_up()
 
 
 
