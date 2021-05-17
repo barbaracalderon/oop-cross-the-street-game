@@ -12,6 +12,7 @@ player = Player()
 
 screen.listen()
 screen.onkey(fun=player.move_up, key="Up")
+scoreboard = Scoreboard()
 
 car_manager = CarManager()
 
