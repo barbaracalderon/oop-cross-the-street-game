@@ -14,7 +14,7 @@ The Turtle Module was used for this game. Concepts of Object Oriented Programmin
 
  ⚠️ _Isso foi criado enquanto eu seguia o tutorial do Jogo Tartaruga Cruzando a Rua do Bootcamp de Python da Angela Yu. O curso está [disponível na Udemy aqui](https://www.udemy.com/course/100-days-of-code/)_. ⚠️
 
-![desktop version of the turtle_street_game]](BC_turtle_street.png)
+![desktop version of the turtle_street_game](BC_turtle_street.png)
 
 Nesse jogo, você controla uma tartaruga e deve ajudá-la a cruzar a rua. Muitos carros coloridos vêm na sua direção. Você precisa cuidar! Assim que chegar do outro lado, uma nova fase começa... e os carros estão mais rápidos.
 
